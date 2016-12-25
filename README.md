@@ -1,1 +1,1 @@
-# https://wizzardmonkey.github.io
+# http://wizzardmonkey.github.io
